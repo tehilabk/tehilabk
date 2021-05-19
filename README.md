@@ -22,3 +22,16 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tehilabk&show_icons=true&theme=slateorange&layout=compact&line_height=20" />
 </a>
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://git-scm.com/" target="git"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" height="40"/>  </a>
+<a href="https://www.java.com" target="Java"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" height="40"/>  </a>  
+<a href="https://www.python.org" target="Python"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" height="40"/>  </a>  
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="40"/>  </a>
+<a href="https://www.cplusplus.com" title="c++"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" height="40"/></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" height="40"/>  </a>  
+<a href="https://www.linux.org" target="Linux"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="40"/></a>
+</p>
