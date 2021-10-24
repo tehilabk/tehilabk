@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/github/followers/tehilabk?label=Followers&style=social)](https://github.com/tehilabk) 
 [![GitHub stars](https://img.shields.io/github/stars/tehilabk?label=Stars&style=social)](https://github.com/tehilabk)
 
-#### 👨‍🎓 *Hello! I'm Tehila, a Computer Science student in Ariel University. (2nd year)*
+#### 👨‍🎓 *Hello! I'm Tehila, a Computer Science student in Ariel University. (3nd year)*
 #### 📫 *Contact me here:* 
 | *LinkedIn page: https://www.linkedin.com/in/tehila-bk/* | *E-mail address: tehilabk123@gmail.com* |
 ------------------------------------------------------|----------------------------------------------------
