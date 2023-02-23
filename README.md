@@ -1,7 +1,7 @@
 # *Welcome to my GitHub page! 👋*
 ![](https://visitor-badge.laobi.icu/badge?page_id=tehilabk.tehilabk) 
 [![Github](https://img.shields.io/github/followers/tehilabk?label=Followers&style=social)](https://github.com/tehilabk) 
-[![GitHub stars](https://img.shields.io/github/stars/tehilabk?label=Stars&style=social)](https://github.com/tehilabk)
+
 
 #### 👨‍🎓 *Hello! I'm Tehila, a Computer Science graduate.*
 #### 📫 *Contact me here:* 
