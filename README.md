@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/github/followers/tehilabk?label=Followers&style=social)](https://github.com/tehilabk) 
 [![GitHub stars](https://img.shields.io/github/stars/tehilabk?label=Stars&style=social)](https://github.com/tehilabk)
 
-#### 👨‍🎓 *Hello! I'm Tehila, a Computer Science graduate. *
+#### 👨‍🎓 *Hello! I'm Tehila, a Computer Science graduate.*
 #### 📫 *Contact me here:* 
 | *LinkedIn page: https://www.linkedin.com/in/tehila-bk/* | *E-mail address: tehilabk123@gmail.com* |
 ------------------------------------------------------|----------------------------------------------------
